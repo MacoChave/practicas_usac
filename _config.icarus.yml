@@ -1,0 +1,23 @@
+widgets:
+    - position: right
+      type: profile
+      # Author name
+      author: Marco Antonio Fidencio Chávez Fuentes
+      # Title of the author
+      author_title: Estudiante de Prácticas Intermedias USAC
+      # Author location/organization
+      location: Guatemala
+      # URL of the avatar/profile picture
+      avatar: https://octodex.github.com/images/inspectocat.jpg
+      # Whether to show a round clip of the avatar
+      avatar_rounded: false
+      # The email address of the Gravatar service(if the `avatar` is not set)
+      gravatar:
+      # The follow link URL
+      follow_link: 'https://macochave.github.io'
+      # Social media link URLs
+      social_links:
+          Github:
+              icon: fab fa-github
+              url: 'https://github.com/'
+          Icarus: 'https://github.com/ppoffice/hexo-theme-icarus'
