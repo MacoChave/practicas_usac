@@ -1,3 +1,19 @@
+navbar:
+    menu:
+        Home: /
+        Archives: /archives
+        Categories: /categories
+        Tags: /tags
+        About: /about
+article:
+    highlight:
+        theme: dracula
+        clipboard: true
+sidebar:
+    left:
+        sticky: false
+    right:
+        sticky: true
 widgets:
     - position: right
       type: profile
@@ -19,5 +35,17 @@ widgets:
       social_links:
           Github:
               icon: fab fa-github
-              url: 'https://github.com/'
+              url: 'https://github.com/macochave'
+          LinkedIn:
+              icon: fab fa-linkedin
+              url: 'https://www.linkedin.com/in/marco-ch%C3%A1vez-aab348144/'
           Icarus: 'https://github.com/ppoffice/hexo-theme-icarus'
+    - type: toc
+      position: left
+      index: true
+    - type: recent_posts
+      position: right
+    - type: categories
+      position: right
+    - type: tags
+      position: right
