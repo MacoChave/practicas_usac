@@ -10,8 +10,6 @@ article:
         theme: dracula
         clipboard: true
 sidebar:
-    left:
-        sticky: false
     right:
         sticky: true
 widgets:
@@ -40,9 +38,6 @@ widgets:
               icon: fab fa-linkedin
               url: 'https://www.linkedin.com/in/marco-ch%C3%A1vez-aab348144/'
           Icarus: 'https://github.com/ppoffice/hexo-theme-icarus'
-    - type: toc
-      position: left
-      index: true
     - type: recent_posts
       position: right
     - type: categories
