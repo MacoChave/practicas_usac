@@ -3,6 +3,10 @@ title: Taller 1 - Prácticas Iniciales
 date: 2021-02-10T12:03:37-06:00
 ---
 
+Universidad de San Carlos de Guatemala
+Facultad de Ingeniería
+Prácticas Iniciales Sección F Grupo 7
+
 Entregables del grupo 7 referente al primer taller de prácticas iniciales.
 
 Integrantes:
