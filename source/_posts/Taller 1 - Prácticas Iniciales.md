@@ -2,7 +2,8 @@
 title: Taller 1 - Prácticas Iniciales
 date: 2021-02-10T12:03:37-06:00
 tags:
-- Practicas Iniciales
+- Prácticas Iniciales
+- Taller
 ---
 
 Universidad de San Carlos de Guatemala

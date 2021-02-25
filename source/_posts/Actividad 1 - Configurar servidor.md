@@ -2,7 +2,8 @@
 title: Actividad 1 - Configurar servidor
 date: 2021-02-17T11:23:12-06:00
 tags:
-- Pracicas iniciales
+- Prácticas Iniciales
+- Actividad
 ---
 
 Universidad de San Carlos de Guatemala

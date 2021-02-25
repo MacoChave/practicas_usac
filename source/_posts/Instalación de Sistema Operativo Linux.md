@@ -2,9 +2,9 @@
 title: Instalación de Sistema Operativo Linux
 date: 2021-02-08T18:42:05-06:00
 tags:
-- linux
-- máquina virtual
-- apache2
+- Linux
+- Máquina Virtual
+- Apache2
 ---
 
 ## Obtener software para virtualizar

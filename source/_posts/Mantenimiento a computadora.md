@@ -2,9 +2,9 @@
 title: Mantenimiento a computadora
 date: 2021-01-29T20:43:22-06:00
 tags:
-- mantenimiento
-- limpieza
-- computadora
+- Mantenimiento
+- Limpieza
+- Computadora
 ---
 
 Es escencial darle mantenimiento a nuestras computadoras, sean laptop o desktop, ya que por nuestra profesión o por nuestra educación las mantenemos en uso constante y transportada a distintos sitios (en caso de nuestras laptops). Por eso la primera actividad a realizar será explicar la manera ideal de darle un mantenimiento adecuado a nuestra herramienta de estudio y/o trabajo (la computadora).
