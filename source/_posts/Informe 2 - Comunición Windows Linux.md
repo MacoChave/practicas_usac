@@ -29,7 +29,7 @@ Video explicativo sobre la instalación y configuración de Ubuntu
 
 <iframe width="100%" height="315" src="https://www.youtube.com/embed/XoA-r4bO5cE" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
-## Conexión de red Windows y Linux
+## Configuración de red Windows y Linux
 
 Video explicativo sobre la configuración de red en Windows y Linux para poder compartir archivos entre sí.
 
