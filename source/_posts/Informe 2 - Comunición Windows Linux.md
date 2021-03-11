@@ -11,7 +11,7 @@ Facultad de Ingeniería
 Prácticas Iniciales Sección F
 Grupo 7
 
-Tema: Configuración de servidor web
+Tema: Instalación de Ubuntu en Dual Boot y Compartir archivos entre Windows y Linux
 
 Integrantes:
 
