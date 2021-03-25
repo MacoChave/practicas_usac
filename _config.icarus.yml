@@ -2,7 +2,8 @@ navbar:
     menu:
         Home: /
         Archives: /archives
-        Categories: /categories
+        Facultad: 'https://portal.ingenieria.usac.edu.gt/'
+        DTT: 'https://dtt-ecys.org/'
         Tags: /tags
         About: /about
 article:
