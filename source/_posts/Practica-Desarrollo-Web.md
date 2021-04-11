@@ -32,3 +32,5 @@ El sitio se puede encontrar en el siguiente enlace:
 <iframe src="https://docs.google.com/viewer?srcid=1PzQAkmxi_wWEBcX_82-RKm61zkiDO6Tp&pid=explorer&efh=false&a=v&chrome=false&embedded=true" width="100%" height="680px"></iframe>
 
 ## Manual técnico
+
+<iframe src="https://docs.google.com/viewer?srcid=1rxkE7nV1UcU4_rhPJn4X_KcidHJUK-IMp&pid=explorer&efh=false&a=v&chrome=false&embedded=true" width="100%" height="680px"></iframe>
