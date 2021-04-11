@@ -33,4 +33,4 @@ El sitio se puede encontrar en el siguiente enlace:
 
 ## Manual técnico
 
-<iframe src="https://docs.google.com/viewer?srcid=1rxkE7nV1UcU4_rhPJn4X_KcidHJUK-IMp&pid=explorer&efh=false&a=v&chrome=false&embedded=true" width="100%" height="680px"></iframe>
+<iframe src="https://docs.google.com/viewer?srcid=1rxkE7nV1UcU4_rhPJn4X_KcidHJUK-IM&pid=explorer&efh=false&a=v&chrome=false&embedded=true" width="100%" height="680px"></iframe>
